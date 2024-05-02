@@ -1,0 +1,54 @@
+body{
+    background-image: url('фонмайн2.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.txt1{
+    text-align: center;
+    margin-top: 1%;
+    color: rgb(80, 68, 105);
+    font-family: rubik black;
+    font-size: 3vw;
+}
+.val{
+    text-align: center;
+}
+.txt2{
+    font-size: 6vw;
+    font-family: rubik BLACK;
+    color: rgba(255, 152, 183, 0.596);
+    position: relative;
+    z-index: -1;
+}
+.ps{
+    margin-left: 70%;
+    margin-top: 20%;
+    position: relative;
+    z-index: -1;
+}
+.me{
+    opacity: 80%;
+margin-top: -30%;
+}
+.frog{
+    margin-top: -44%;
+    margin-left: 17%;
+}
+.pasha{
+    margin-top: -10%;
+    margin-left: 60%;
+}
+.snow{
+    margin-left: 20%;
+}
+.mi{
+   margin-left: 14%; 
+}
+.i{
+    margin-left: 60%;
+    margin-top: -10%;
+}
+.alb{
+    margin-left: 60%;
+    margin-top: -31%;
+}
